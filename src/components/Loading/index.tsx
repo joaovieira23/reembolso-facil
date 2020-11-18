@@ -6,7 +6,7 @@ import { Container } from './styles';
 const Spin: React.FC = () => {
   return (
     <Container>
-      <ReactLoading type="cubes" color="#FFF" height={667} width={375} />
+      <ReactLoading type="cubes" color="#FFF" height={567} width={275} />
     </Container>
   );
 }
